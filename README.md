@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaitruong19022000&label=Profile%20views&color=0e75b6&style=flat" alt="khaitruong19022000" /> </p>
 
-- 🔭 I’m currently working on **NodeJS, ExpressJS**
+- 🔭 I’m currently working on **NodeJS, ExpressJS, NestJS, Docker**
 
-- 🌱 I’m currently learning **ReactJS, NestJS, AWS**
+- 🌱 I’m currently learning **ReactJS, AWS**
 
 - 👯 I’m looking to collaborate **with other content creators**
 
